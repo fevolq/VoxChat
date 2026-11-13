@@ -1,0 +1,3 @@
+- insert:
+    - id: voxchat
+      name: '@fevolq/voxchat'
